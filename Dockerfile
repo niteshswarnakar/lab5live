@@ -1,0 +1,3 @@
+FROM http
+
+COPY . .
